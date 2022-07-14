@@ -1,0 +1,4 @@
+[build]
+base = "."
+command = "CI= react-scripts build"
+publish = "./build/"
